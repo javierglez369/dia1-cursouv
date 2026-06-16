@@ -1,0 +1,11 @@
+node_modules/
+
+bin/
+
+obj/
+
+# Cualquier archivo con extensión log
+*.log
+
+# Archivos .tmp en cualquier subdirectorio
+**/*.tmp
