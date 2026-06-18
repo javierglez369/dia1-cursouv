@@ -11,3 +11,5 @@ obj/
 **/*.tmp
 
 **/*.env
+
+notas-personales.txt
