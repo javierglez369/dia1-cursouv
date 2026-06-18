@@ -1,1 +1,5 @@
-console.log('Hola desde Git');
+(function(){
+    console.log('Hola desde Git');
+}());
+
+
