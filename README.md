@@ -7,3 +7,7 @@ Repositorio didáctico del curso **Control de versiones profesional con Git**.
 ### Autor
 
 Jimmy Javier.
+
+#### Fecha y Ubicación
+
+Xalapa, Veracruz a 22 de Junio del 2026.
